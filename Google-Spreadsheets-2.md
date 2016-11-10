@@ -50,11 +50,10 @@
 2. В меню **Данные** выберите **Сводная таблица**. Автоматически создастся новый лист, а справа появятся поля, которые необходимо заполнить, чтобы создать таблицу. В поле *Строки* добавьте Center, в после *Значения* суммируйте по функции COUNTA (считающей все вхождения).
 
 ![alt-text](https://github.com/creaciond/2nd-year-assist-compinst/raw/master/google-spreadsheets%20images/GS2-05-howto.png "Заполненные поля")
-![alt-text](https://github.com/creaciond/2nd-year-assist-compinst/raw/master/google-spreadsheets%20images/GS2-05-example.png "Результат работы")
 
 Итогом должна стать таблица, в которой напротив каждой уникальной словоформы с учетом ударения в ней, встретившейся в столбце «Center», приведено количество ее появлений в столбце:
 
-![alt-text](https://github.com/creaciond/2nd-year-assist-compinst/raw/master/google-spreadsheets%20images/GS2-04-midtable.png "Шаг четвёртый: сводная таблица")
+![alt-text](https://github.com/creaciond/2nd-year-assist-compinst/raw/master/google-spreadsheets%20images/GS2-05-example.png "Результат работы")
 
 ### 3. Исключаем омонимичные словоформы
 У каждой словоформы именительного падежа искомых слов с ударением на окончание имеется словоформа-омограф (*директора́* — *дире́ктора* и т. п.). Отсюда следует, что все словоформы, имеющие безударное окончание *-а*, нам не интересны.
